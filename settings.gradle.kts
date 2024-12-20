@@ -29,3 +29,11 @@ dependencyResolutionManagement {
 }
 
 include(":composeApp")
+include(":data")
+include(":domain")
+
+include(":framework")
+include(":framework:fuelstation")
+include(":core")
+include(":domain:fuelstation")
+include(":data:fuelstation")
