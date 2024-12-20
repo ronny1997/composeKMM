@@ -1,4 +1,6 @@
-package org.appmaster.labs.composekmm
+package org.appmaster.labs.feature.home
+
+import org.appmaster.labs.feature.home.getPlatform
 
 class Greeting {
     private val platform = getPlatform()
